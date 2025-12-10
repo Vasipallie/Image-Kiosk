@@ -1,4 +1,4 @@
-# Image Kiosk (via GitHub)
+![](assets/20251210_112233_Image_Kiosk.png)
 
 The Image Kiosk application is an auto reloading image kiosk, which automatically fetches images from a specified github repository folder and starts a looping carousel of images in the folder.
 
